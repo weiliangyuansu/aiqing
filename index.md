@@ -3,6 +3,16 @@
 <head>
 <meta charset="utf-8">
 <title>辛弃疾</title>
+	<style type="text/css">
+		body{
+			background-image: url();
+			background-size: 100% 100%;
+			height: 100%;
+		}
+		html{
+			height: 100%
+		}
+	</style>
 </head>
 <body>
 	<h>青玉案。元夕</h>
