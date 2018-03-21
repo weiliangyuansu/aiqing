@@ -6,10 +6,12 @@
 		body{
 			background-image: url(img-b1fad560e7fc80c08c5d7f04da0813b7.jpg);
 			background-size: 100% 100%;
-			height: 100%;
+			height: 100%;width：100%
+		
 		}
 		html{
-			height: 100%
+			height: 100%；width：100%
+			
 		}
 	</style>
 </head>
